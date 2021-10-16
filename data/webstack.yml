@@ -59,6 +59,10 @@
       logo: assets/images/logos/dribbble.png
       url: https://www.hutool.cn/docs/#/
       description: hutool手册
+    - title: twig手册
+      logo: assets/images/logos/dribbble.png
+      url: https://www.kancloud.cn/yunye/twig-cn/159454
+      description: twig手册
 
 - taxonomy: 社区咨询
   icon: fa-newspaper-o
