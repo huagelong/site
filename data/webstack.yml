@@ -64,6 +64,26 @@
       url: https://www.google.com/
       description: 全球最大的UI学习分享平台
     
+- taxonomy: 开发工具
+  icon: fa-wrench
+  links: 
+    - title: onlinegdb
+      logo: assets/images/logos/dribbble.png
+      url: https://www.onlinegdb.com/
+      description: 代码在线执行
+    - title: tools.fun
+      logo: assets/images/logos/dribbble.png
+      url: https://tools.fun/
+      description: 在线工具
+    - title: yamlchecker
+      logo: assets/images/logos/dribbble.png
+      url: https://yamlchecker.com/
+      description: yaml格式检查
+    - title: regex101
+      logo: assets/images/logos/dribbble.png
+      url: https://regex101.com/
+      description: 在线正则工具
+
 
 - taxonomy: 社区咨询
   icon: fa-newspaper-o
