@@ -1,13 +1,14 @@
-baseURL = "https://site.2tag.cn/"
+baseURL = "https://site.huagelong.cn/"
 languageCode = "zh-CN"
 title = "网址导航"
 theme = "webstack-hugo"
 preserveTaxonomyNames = true
 disablePathToLower = true
 hasCJKLanguage = true
+publishdir = "docs"
 copyright = ""
 [params]
-  author = "2tag.cn"
+  author = "huagelong.cn"
   description = "网址导航"
 [params.search]
   enable = true
