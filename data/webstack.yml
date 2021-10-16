@@ -23,10 +23,6 @@
       logo: assets/images/logos/youtube.png
       url: https://www.youtube.com/
       description: 全球最大的学习分享平台
-    - title: Google
-      logo: assets/images/logos/google.png
-      url: https://www.google.com/
-      description: 全球最大的UI学习分享平台
     
 - taxonomy: 开发工具
   icon: fa-wrench
@@ -48,6 +44,21 @@
       url: https://regex101.com/
       description: 在线正则工具
 
+- taxonomy: 手册
+  icon: fa-book
+  links: 
+    - title: jquery
+      logo: assets/images/logos/dribbble.png
+      url: https://jquery.cuishifeng.cn/
+      description: jquery手册
+    - title: elementUI
+      logo: assets/images/logos/dribbble.png
+      url: https://element.eleme.cn/#/zh-CN/component/installation
+      description: elementUI手册
+    - title: hutool
+      logo: assets/images/logos/dribbble.png
+      url: https://www.hutool.cn/docs/#/
+      description: hutool手册
 
 - taxonomy: 社区咨询
   icon: fa-newspaper-o
