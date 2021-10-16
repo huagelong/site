@@ -1,0 +1,15 @@
+baseURL = "https://site.2tag.cn/"
+languageCode = "zh-CN"
+title = "网址导航"
+theme = "webstack-hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+copyright = ""
+[params]
+  author = "2tag.cn"
+  description = "网址导航"
+[params.search]
+  enable = true
+[params.darkmode]
+  enable = false
