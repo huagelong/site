@@ -66,6 +66,10 @@
       logo: assets/images/logos/dribbble.png
       url: https://www.topgoer.com/go%E5%9F%BA%E7%A1%80/
       description: go基础
+    - title: goorm手册
+      logo: assets/images/logos/dribbble.png
+      url: https://gorm.io/zh_CN/
+      description: goorm手册
 
 
 - taxonomy: 开发工具
