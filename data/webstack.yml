@@ -7,6 +7,10 @@
       logo: assets/images/logos/dribbble.png
       url: https://www.oschina.net/
       description: OSCHINA.NET 是目前领先的中文开源技术社区。
+    - title: github
+      logo: assets/images/logos/dribbble.png
+      url: https://www.github.com/
+      description: GitHub is where people build software
     - title: v2ex
       logo: assets/images/logos/dribbble.png
       url: https://www.v2ex.com/
