@@ -27,27 +27,6 @@
       logo: assets/images/logos/youtube.png
       url: https://www.youtube.com/
       description: 全球最大的学习分享平台
-    
-- taxonomy: 开发工具
-  icon: fa-wrench
-  links: 
-    - title: onlinegdb
-      logo: assets/images/logos/dribbble.png
-      url: https://www.onlinegdb.com/
-      description: 代码在线执行
-    - title: tools.fun
-      logo: assets/images/logos/dribbble.png
-      url: https://tools.fun/
-      description: 在线工具
-    - title: yamlchecker
-      logo: assets/images/logos/dribbble.png
-      url: https://yamlchecker.com/
-      description: yaml格式检查
-    - title: regex101
-      logo: assets/images/logos/dribbble.png
-      url: https://regex101.com/
-      description: 在线正则工具
-
 - taxonomy: 手册
   icon: fa-book
   links: 
@@ -79,6 +58,38 @@
       logo: assets/images/logos/dribbble.png
       url: https://sa-token.dev33.cn/
       description: sa-token手册
+    - title: go标准库文档
+      logo: assets/images/logos/dribbble.png
+      url: https://studygolang.com/pkgdoc
+      description: go标准库文档
+    - title: go基础
+      logo: assets/images/logos/dribbble.png
+      url: https://www.topgoer.com/go%E5%9F%BA%E7%A1%80/
+      description: go基础
+
+
+- taxonomy: 开发工具
+  icon: fa-wrench
+  links: 
+    - title: onlinegdb
+      logo: assets/images/logos/dribbble.png
+      url: https://www.onlinegdb.com/
+      description: 代码在线执行
+    - title: tools.fun
+      logo: assets/images/logos/dribbble.png
+      url: https://tools.fun/
+      description: 在线工具
+    - title: yamlchecker
+      logo: assets/images/logos/dribbble.png
+      url: https://yamlchecker.com/
+      description: yaml格式检查
+    - title: regex101
+      logo: assets/images/logos/dribbble.png
+      url: https://regex101.com/
+      description: 在线正则工具
+
+
+
 - taxonomy: 社区咨询
   icon: fa-newspaper-o
   links: 
