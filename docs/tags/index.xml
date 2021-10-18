@@ -5,10 +5,6 @@
     <link>https://site.huagelong.cn/tags/</link>
     <description>Recent content in Tags on 网址导航</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
-    
-	<atom:link href="https://site.huagelong.cn/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>zh-CN</language><atom:link href="https://site.huagelong.cn/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -71,7 +71,14 @@
       logo: assets/images/logos/dribbble.png
       url: https://www.kancloud.cn/yunye/twig-cn/159454
       description: twig手册
-
+    - title: freemarker手册
+      logo: assets/images/logos/dribbble.png
+      url: http://freemarker.foofun.cn/toc.html
+      description: freemarker手册
+    - title: sa-token手册
+      logo: assets/images/logos/dribbble.png
+      url: https://sa-token.dev33.cn/
+      description: sa-token手册
 - taxonomy: 社区咨询
   icon: fa-newspaper-o
   links: 
