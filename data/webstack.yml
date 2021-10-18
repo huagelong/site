@@ -63,6 +63,10 @@
       logo: assets/images/logos/dribbble.png
       url: https://www.hutool.cn/docs/#/
       description: hutool手册
+    - title: mybatis-plus
+      logo: assets/images/logos/dribbble.png
+      url: https://mp.baomidou.com/guide/wrapper.html#eq
+      description: mybatis-plus手册
     - title: twig手册
       logo: assets/images/logos/dribbble.png
       url: https://www.kancloud.cn/yunye/twig-cn/159454
