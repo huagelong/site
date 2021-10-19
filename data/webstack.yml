@@ -70,7 +70,10 @@
       logo: assets/images/logos/dribbble.png
       url: https://gorm.io/zh_CN/
       description: goorm手册
-
+    - title: layui手册
+      logo: assets/images/logos/dribbble.png
+      url: https://www.layui.site/
+      description: layui手册
 
 - taxonomy: 开发工具
   icon: fa-wrench
