@@ -27,6 +27,11 @@
       logo: assets/images/logos/youtube.png
       url: https://www.youtube.com/
       description: 全球最大的学习分享平台
+    - title: github.dev
+      logo: assets/images/logos/youtube.png
+      url: https://github.dev/
+      description: github在线开发
+      
 - taxonomy: 手册
   icon: fa-book
   links: 
