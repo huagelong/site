@@ -34,7 +34,11 @@
     - title: 微云
       logo: assets/images/logos/youtube.png
       url: https://www.weiyun.com/disk
-      description: 微云     
+      description: 微云 
+    - title: learnku
+      logo: assets/images/logos/youtube.png
+      url: https://learnku.com/
+      description: learnku
 
 
 - taxonomy: 手册
