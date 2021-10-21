@@ -264,6 +264,11 @@
           url: https://www.gaoding.com
           logo: assets/images/logos/gaoding.png
           description: 免费在线抠图软件,图片快速换背景-抠白底图
+        - title: 抠图
+          url:  https://www.erase.bg/en/
+          logo: assets/images/logos/gaoding.png
+          description: 免费在线抠图
+         
         
     - term: Chrome插件
       links:
