@@ -19,10 +19,10 @@
       logo: assets/images/logos/producthunt.png
       url: https://www.producthunt.com/
       description: 发现新鲜有趣的产品
-    - title: 花瓣
+    - title: golang palyground
       logo: assets/images/logos/huaban.png
-      url: https://huaban.com/
-      description: 收集灵感,保存有用的素材
+      url: https://play.golang.org/
+      description: golang palyground
     - title: Youtube
       logo: assets/images/logos/youtube.png
       url: https://www.youtube.com/
