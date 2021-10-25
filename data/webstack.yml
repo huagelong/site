@@ -100,9 +100,9 @@
 - taxonomy: 开发工具
   icon: fa-wrench
   links: 
-    - title: onlinegdb
+    - title: chinaz coderun
       logo: assets/images/logos/dribbble.png
-      url: https://www.onlinegdb.com/
+      url: https://ntool.chinaz.com/coderun
       description: 代码在线执行
     - title: tools.fun
       logo: assets/images/logos/dribbble.png
