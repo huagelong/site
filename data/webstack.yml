@@ -63,6 +63,10 @@
       logo: assets/images/logos/youtube.png
       url: https://eleduck.com/
       description: 电鸭
+    - title: mac软件下载
+      logo: assets/images/logos/youtube.png
+      url: https://www.macappbox.com/
+      description: mac软件下载
 
 
 - taxonomy: 手册
