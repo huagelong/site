@@ -51,6 +51,15 @@
       logo: assets/images/logos/youtube.png
       url: https://w2solo.com/
       description: 独立开发者社区
+    - title: 创造者社区
+      logo: assets/images/logos/youtube.png
+      url: https://creatorsdaily.com/
+      description: 创造者社区
+    - title: 生财有术
+      logo: assets/images/logos/youtube.png
+      url: https://www.shengcaiyoushu.com/
+      description: 生财有术
+
 
 - taxonomy: 手册
   icon: fa-book
