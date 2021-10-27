@@ -47,7 +47,10 @@
       logo: assets/images/logos/youtube.png
       url: https://learnku.com/
       description: learnku
-
+    - title: w2solo
+      logo: assets/images/logos/youtube.png
+      url: https://w2solo.com/
+      description: 独立开发者社区
 
 - taxonomy: 手册
   icon: fa-book
