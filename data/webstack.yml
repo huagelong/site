@@ -79,6 +79,10 @@
 - taxonomy: 手册
   icon: fa-book
   links: 
+    - title: hyperf
+      logo: assets/images/logos/dribbble.png
+      url: https://hyperf.wiki/2.2/#/
+      description: hyperf手册
     - title: jquery
       logo: assets/images/logos/dribbble.png
       url: https://jquery.cuishifeng.cn/
