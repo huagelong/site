@@ -75,6 +75,10 @@
       logo: assets/images/logos/youtube.png
       url: https://opensourcelibs.com/
       description: opensourcelibs
+    - title: giters
+      logo: assets/images/logos/youtube.png
+      url: https://giters.com/
+      description: giters
 
 - taxonomy: 手册
   icon: fa-book
