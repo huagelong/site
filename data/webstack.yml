@@ -243,3 +243,7 @@
           url: https://wificard.io/
           logo: assets/images/logos/wappalyzer.png
           description: wifi二维码
+        - title: 下载工具
+          url: https://d.serctl.com/
+          logo: assets/images/logos/wappalyzer.png
+          description: 下载工具
