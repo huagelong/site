@@ -79,7 +79,11 @@
       logo: assets/images/logos/youtube.png
       url: https://giters.com/
       description: giters
-
+    - title: 宝塔
+      logo: assets/images/logos/youtube.png
+      url: http://bt.eduxplus.com:8889/tcloud
+      description: 宝塔
+      
 - taxonomy: 手册
   icon: fa-book
   links: 
