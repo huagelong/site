@@ -159,8 +159,16 @@
       logo: assets/images/logos/dribbble.png
       url: https://tool.lu/crontab/
       description: 在线crontab
+    - title: wifi二维码
+      url: https://wificard.io/
+      logo: assets/images/logos/wappalyzer.png
+      description: wifi二维码
+    - title: 下载工具
+      url: https://d.serctl.com/
+      logo: assets/images/logos/wappalyzer.png
+      description: 下载工具
 
- 
+
 - taxonomy: 素材资源
   icon: fa-thumbs-up
   list: 
@@ -236,14 +244,3 @@
           logo: assets/images/logos/gaoding.png
           description: 免费在线抠图
          
-        
-    - term: 其他工具
-      links:
-        - title: wifi二维码
-          url: https://wificard.io/
-          logo: assets/images/logos/wappalyzer.png
-          description: wifi二维码
-        - title: 下载工具
-          url: https://d.serctl.com/
-          logo: assets/images/logos/wappalyzer.png
-          description: 下载工具
