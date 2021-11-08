@@ -135,6 +135,10 @@
       logo: assets/images/logos/dribbble.png
       url: https://www.layui.site/
       description: layui手册
+    - title: laravel手册
+      logo: assets/images/logos/dribbble.png
+      url: https://learnku.com/docs/laravel/8.5/installation/10359
+      description: laravel手册
 
 - taxonomy: 开发工具
   icon: fa-wrench
