@@ -86,7 +86,11 @@
       
 - taxonomy: 手册
   icon: fa-book
-  links: 
+  links:
+    - title: symfony
+      logo: assets/images/logos/dribbble.png
+      url: https://symfony.com/doc/current/index.html
+      description: symfony手册 
     - title: hyperf
       logo: assets/images/logos/dribbble.png
       url: https://hyperf.wiki/2.2/#/
