@@ -31,14 +31,6 @@
       logo: assets/images/logos/youtube.png
       url: https://github.dev/
       description: github在线开发
-    - title: 微云
-      logo: assets/images/logos/youtube.png
-      url: https://www.weiyun.com/disk
-      description: 微云 
-    - title: 有道云
-      logo: assets/images/logos/youtube.png
-      url: https://note.youdao.com/
-      description: 有道云 
     - title: 导航编辑
       logo: assets/images/logos/dribbble.png
       url: https://gitpod.io/#https://github.com/trensy/site
@@ -83,7 +75,19 @@
       logo: assets/images/logos/youtube.png
       url: http://bt.eduxplus.com:8889/tcloud
       description: 宝塔
-      
+
+- taxonomy: 笔记
+  icon: fa-book
+  links:
+    - title: 微云
+      logo: assets/images/logos/youtube.png
+      url: https://www.weiyun.com/disk
+      description: 微云 
+    - title: 有道云
+      logo: assets/images/logos/youtube.png
+      url: https://note.youdao.com/
+      description: 有道云 
+
 - taxonomy: 手册
   icon: fa-book
   links:
