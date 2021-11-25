@@ -151,6 +151,10 @@
 - taxonomy: 开发工具
   icon: fa-wrench
   links: 
+    - title: jsonview
+      logo: assets/images/logos/dribbble.png
+      url: https://www.bejson.com/jsonviewernew/
+      description: jsonview
     - title: chinaz coderun
       logo: assets/images/logos/dribbble.png
       url: https://ntool.chinaz.com/coderun
