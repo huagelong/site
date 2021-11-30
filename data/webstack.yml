@@ -151,6 +151,10 @@
 - taxonomy: 开发工具
   icon: fa-wrench
   links: 
+    - title: laravelplayground
+      logo: assets/images/logos/dribbble.png
+      url: https://laravelplayground.com/#/?php=81
+      description: laravelplayground
     - title: jsonview
       logo: assets/images/logos/dribbble.png
       url: https://www.bejson.com/jsonviewernew/
