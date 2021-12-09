@@ -155,6 +155,10 @@
       logo: assets/images/logos/dribbble.png
       url: https://learnku.com/docs/laravel/8.5/installation/10359
       description: laravel手册
+    - title: 廖雪峰学习
+      logo: assets/images/logos/dribbble.png
+      url: https://www.liaoxuefeng.com/
+      description: 廖雪峰学习
 
 - taxonomy: 开发工具
   icon: fa-wrench
