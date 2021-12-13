@@ -83,6 +83,10 @@
 - taxonomy: 笔记
   icon: fa-book
   links:
+    - title: teambition
+      logo: assets/images/logos/youtube.png
+      url: https://www.teambition.com/organization/5ec4ed22497af5b7ac656d89/my
+      description: teambition 
     - title: 微云
       logo: assets/images/logos/youtube.png
       url: https://www.weiyun.com/disk
