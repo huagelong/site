@@ -95,10 +95,10 @@
       logo: assets/images/logos/youtube.png
       url: https://note.youdao.com/
       description: 有道云 
-    - title: 飞书文档
+    - title: pingcode
       logo: assets/images/logos/youtube.png
-      url: https://hhrasiqulz.feishu.cn/drive/home/
-      description: 飞书文档
+      url: https://imcb20220112013838224.pingcode.com/
+      description: pingcode
 
 - taxonomy: 手册
   icon: fa-book
