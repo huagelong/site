@@ -125,7 +125,7 @@
       description: hutool手册
     - title: mybatis-plus
       logo: assets/images/logos/dribbble.png
-      url: https://mp.baomidou.com/guide/wrapper.html#eq
+      url: https://baomidou.com/
       description: mybatis-plus手册
     - title: twig手册
       logo: assets/images/logos/dribbble.png
