@@ -39,10 +39,6 @@
       logo: assets/images/logos/youtube.png
       url: https://github.dev/
       description: github在线开发
-    - title: 导航编辑
-      logo: assets/images/logos/dribbble.png
-      url: https://gitpod.io/#https://github.com/trensy/site
-      description: 导航编辑
     - title: learnku
       logo: assets/images/logos/youtube.png
       url: https://learnku.com/
