@@ -7,6 +7,10 @@
       logo: assets/images/logos/dribbble.png
       url: https://www.ruanyifeng.com/
       description: 阮一峰的网络日志
+    - title: hacknews
+      logo: assets/images/logos/dribbble.png
+      url: https://news.ycombinator.com/
+      description: hacknews
     - title: hellogithub
       logo: assets/images/logos/dribbble.png
       url: https://hellogithub.com/
