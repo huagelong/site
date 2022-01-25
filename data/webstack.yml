@@ -291,4 +291,12 @@
           url:  https://www.erase.bg/en/
           logo: assets/images/logos/gaoding.png
           description: 免费在线抠图
-         
+- taxonomy: 下载&视频
+  icon: fa-diamond
+  list:
+    - term: 视频
+      links: 
+         - title: gatsby
+           url: https://gatsby.video/
+           logo: assets/images/logos/tinypng.png
+           description: gatsby
