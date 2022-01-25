@@ -259,6 +259,10 @@
   list: 
     - term: 在线工具
       links:
+        - title: free-api
+          logo: assets/images/logos/dribbble.png
+          url: https://www.free-api.com/
+          description: free-api
         - title: 百度统计
           url: https://tongji.baidu.com/
           logo: assets/images/logos/tinypng.png
