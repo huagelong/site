@@ -3,6 +3,10 @@
 - taxonomy: 常用推荐
   icon: fa-star
   links:
+    - title: 编程导航
+      logo: assets/images/logos/dribbble.png
+      url: https://www.code-nav.cn/
+      description: 编程导航
     - title: InfoQ
       logo: assets/images/logos/dribbble.png
       url: https://www.infoq.cn/
