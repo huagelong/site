@@ -3,6 +3,10 @@
 - taxonomy: 常用推荐
   icon: fa-star
   links:
+    - title: InfoQ
+      logo: assets/images/logos/dribbble.png
+      url: https://www.infoq.cn/
+      description: InfoQ
     - title: 阮一峰的网络日志
       logo: assets/images/logos/dribbble.png
       url: https://www.ruanyifeng.com/
