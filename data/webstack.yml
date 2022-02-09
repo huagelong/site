@@ -235,7 +235,10 @@
       url: https://d.serctl.com/
       logo: assets/images/logos/wappalyzer.png
       description: 下载工具
-
+    - title: 域名注册
+      url: https://namebeta.com/
+      logo: assets/images/logos/wappalyzer.png
+      description: 域名注册
 
 - taxonomy: 素材资源
   icon: fa-thumbs-up
