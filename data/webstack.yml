@@ -3,10 +3,10 @@
 - taxonomy: 常用推荐
   icon: fa-star
   links:
-    - title: 编程导航
+    - title: google自定义搜索编辑
       logo: assets/images/logos/dribbble.png
-      url: https://www.code-nav.cn/
-      description: 编程导航
+      url: https://cse.google.com/cse/setup/basic?cx=f0aae7cc7a0d2d25e
+      description: google 自定义搜索编辑
     - title: InfoQ
       logo: assets/images/logos/dribbble.png
       url: https://www.infoq.cn/
