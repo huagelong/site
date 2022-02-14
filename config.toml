@@ -1,0 +1,16 @@
+baseURL = "https://site.huagelong.cn/"
+languageCode = "zh-CN"
+title = "网址导航"
+theme = "webstack-hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishdir = "docs"
+copyright = ""
+[params]
+  author = "huagelong.cn"
+  description = "网址导航"
+[params.search]
+  enable = true
+[params.darkmode]
+  enable = false
