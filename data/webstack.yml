@@ -190,10 +190,10 @@
       logo: assets/images/logos/dribbble.png
       url: https://www.liaoxuefeng.com/
       description: 廖雪峰学习
-    - title: spacevim快捷键
+    - title: gf2手册
       logo: assets/images/logos/dribbble.png
-      url: https://www.killf.info/Linux/SpaceVim%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE/
-      description: spacevim快捷键
+      url: https://goframe.org/display/gf 
+      description: gf2手册
 
 - taxonomy: 开发工具
   icon: fa-wrench
