@@ -99,6 +99,9 @@
       logo:  assets/images/logos/youtube.png 
       url: https://github.com/timqian/chinese-independent-blogs
       description: 中国独立博客
+    - title: cloudflare
+      logo: assets/images/logos/youtube.png
+      url: https://dash.cloudflare.com/
 - taxonomy: 笔记&项目管理
   icon: fa-book
   links:
