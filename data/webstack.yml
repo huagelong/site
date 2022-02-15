@@ -294,11 +294,11 @@
           description: free-api
         - title: 百度统计
           url: https://tongji.baidu.com/
-          logo: assets/images/logos/dribbble.png.png
+          logo: assets/images/logos/dribbble.png
           description: 百度统计
         - title: tinypng
           url: https://tinypng.com/
-          logo: assets/images/logos/dribbble.png.png
+          logo: assets/images/logos/dribbble.png
           description: Optimize your images with a perfect balance in quality and file size.
         - title: goqr
           url: http://goqr.me/
@@ -331,5 +331,5 @@
       links: 
          - title: gatsby
            url: https://gatsby.video/
-           logo: assets/images/logos/dribbble.png.png
+           logo: assets/images/logos/dribbble.png
            description: gatsby

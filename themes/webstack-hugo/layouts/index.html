@@ -97,33 +97,13 @@
                 {{ if .qrcode }}
                 <div class="xe-card col-sm-4 col-md-3 qrcode">
                     <a href="javascript:" target="" class="xe-widget xe-conversations box2 label-info" data-toggle="tooltip" data-placement="bottom" data-html="true" title="<img src='{{ .qrcode }}' width='128'>">
-                        <div class="xe-comment-entry">
-                            <div class="xe-user-img">
-                                <img class="img-circle lazy" src="./assets/images/favicon.png" data-src="{{ .logo }}" onerror="javascript:this.src='./assets/images/favicon.png'" width="40">
-                            </div>
-                            <div class="xe-comment">
-                                <div class="xe-user-name overflowClip_1">
-                                    <strong>{{ .title }}</strong>
-                                </div>
-                                <p class="overflowClip_2">{{ .description }}</p>
-                            </div>
-                        </div>
+                        <strong>{{ .title }}</strong>
                     </a>
                 </div>
                 {{ else }}
                 <div class="xe-card col-sm-4 col-md-3 ">
                     <a href="{{ .url }}" target="_blank" class="xe-widget xe-conversations box2 label-info" data-toggle="tooltip" data-placement="bottom"  title="{{ .url }}">
-                        <div class="xe-comment-entry">
-                            <div class="xe-user-img">
-                                <img class="img-circle lazy" src="./assets/images/favicon.png" data-src="{{ .logo }}" onerror="javascript:this.src='./assets/images/favicon.png'" width="40">
-                            </div>
-                            <div class="xe-comment">
-                                <div class="xe-user-name overflowClip_1">
-                                    <strong>{{ .title }}</strong>
-                                </div>
-                                <p class="overflowClip_2">{{ .description }}</p>
-                            </div>
-                        </div>
+                        <strong>{{ .title }}</strong>
                     </a>
                 </div>
                 {{ end }}
@@ -140,33 +120,13 @@
                 {{ if .qrcode }}
                 <div class="xe-card col-sm-4 col-md-3 qrcode">
                     <a href="javascript:" target="" class="xe-widget xe-conversations box2 label-info" data-toggle="tooltip" data-placement="bottom" data-html="true" title="<img src='{{ .qrcode }}' width='128'>">
-                        <div class="xe-comment-entry">
-                            <div class="xe-user-img">
-                                <img class="img-circle lazy" src="./assets/images/favicon.png" data-src="{{ .logo }}" onerror="javascript:this.src='./assets/images/favicon.png'" width="40">
-                            </div>
-                            <div class="xe-comment">
-                                <div class="xe-user-name overflowClip_1">
-                                    <strong>{{ .title }}</strong>
-                                </div>
-                                <p class="overflowClip_2">{{ .description }}</p>
-                            </div>
-                        </div>
+                        <strong>{{ .title }}</strong>
                     </a>
                 </div>
                 {{ else }}
                 <div class="xe-card col-sm-4 col-md-3 ">
                     <a href="{{ .url }}" target="_blank" class="xe-widget xe-conversations box2 label-info" data-toggle="tooltip" data-placement="bottom"  title="{{ .url }}">
-                        <div class="xe-comment-entry">
-                            <div class="xe-user-img">
-                                <img class="img-circle lazy" src="./assets/images/favicon.png" data-src="{{ .logo }}" onerror="javascript:this.src='./assets/images/favicon.png'" width="40">
-                            </div>
-                            <div class="xe-comment">
-                                <div class="xe-user-name overflowClip_1">
-                                    <strong>{{ .title }}</strong>
-                                </div>
-                                <p class="overflowClip_2">{{ .description }}</p>
-                            </div>
-                        </div>
+                        <strong>{{ .title }}</strong>
                     </a>
                 </div>
                 {{ end }}
