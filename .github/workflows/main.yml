@@ -31,4 +31,7 @@ jobs:
         if: ${{ github.ref == 'refs/heads/master' }}
         with:
           personal_token: ${{ secrets.DOC_GITHUB_TOKEN }}
-          publish_dir: ./public
+          publish_dir: ./docs
+          cname: site.huagelong.cn
+          enable_jekyll: false
+          
