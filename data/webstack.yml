@@ -36,71 +36,71 @@
       url: https://www.v2ex.com/
       description: 创意工作者们的社区
     - title: Producthunt
-      logo: assets/images/logos/producthunt.png
+      logo: assets/images/logos/dribbble.png
       url: https://www.producthunt.com/
       description: 发现新鲜有趣的产品
     - title: golang palyground
-      logo: assets/images/logos/huaban.png
+      logo: assets/images/logos/dribbble.png
       url: https://play.golang.org/
       description: golang palyground
     - title: Youtube
-      logo: assets/images/logos/youtube.png
+      logo: assets/images/logos/dribbble.png
       url: https://www.youtube.com/
       description: 全球最大的学习分享平台
     - title: github.dev
-      logo: assets/images/logos/youtube.png
+      logo: assets/images/logos/dribbble.png
       url: https://github.dev/
       description: github在线开发
     - title: learnku
-      logo: assets/images/logos/youtube.png
+      logo: assets/images/logos/dribbble.png
       url: https://learnku.com/
       description: learnku
     - title: w2solo
-      logo: assets/images/logos/youtube.png
+      logo: assets/images/logos/dribbble.png
       url: https://w2solo.com/
       description: 独立开发者社区
     - title: 创造者社区
-      logo: assets/images/logos/youtube.png
+      logo: assets/images/logos/dribbble.png
       url: https://creatorsdaily.com/
       description: 创造者社区
     - title: 生财有术
-      logo: assets/images/logos/youtube.png
+      logo: assets/images/logos/dribbble.png
       url: https://www.shengcaiyoushu.com/
       description: 生财有术
     - title: 电鸭
-      logo: assets/images/logos/youtube.png
+      logo: assets/images/logos/dribbble.png
       url: https://eleduck.com/
       description: 电鸭
     - title: mac软件下载
-      logo: assets/images/logos/youtube.png
+      logo: assets/images/logos/dribbble.png
       url: https://www.macappbox.com/
       description: mac软件下载
     - title: 大好人资源铺
-      logo: assets/images/logos/youtube.png
+      logo: assets/images/logos/dribbble.png
       url: http://babe.ys168.com/
       description: 大好人资源铺
     - title: opensourcelibs
-      logo: assets/images/logos/youtube.png
+      logo: assets/images/logos/dribbble.png
       url: https://opensourcelibs.com/
       description: opensourcelibs
     - title: giters
-      logo: assets/images/logos/youtube.png
+      logo: assets/images/logos/dribbble.png
       url: https://giters.com/
       description: giters
     - title: 产品大师
-      logo: assets/images/logos/youtube.png
+      logo: assets/images/logos/dribbble.png
       url: https://www.pmdaniu.com/explore
       description: 产品大师
     - title: 宝塔
-      logo: assets/images/logos/youtube.png
+      logo: assets/images/logos/dribbble.png
       url: http://bt.eduxplus.com:8889/tcloud
       description: 宝塔
     - title: 中国独立博客
-      logo:  assets/images/logos/youtube.png 
+      logo:  assets/images/logos/dribbble.png 
       url: https://github.com/timqian/chinese-independent-blogs
       description: 中国独立博客
     - title: cloudflare
-      logo: assets/images/logos/youtube.png
+      logo: assets/images/logos/dribbble.png
       url: https://dash.cloudflare.com/
 - taxonomy: 笔记&项目管理
   icon: fa-book
@@ -110,23 +110,23 @@
       url: https://coding.net/
       description: coding
     - title: petalmail
-      logo: assets/images/logos/youtube.png
+      logo: assets/images/logos/dribbble.png
       url: https://petalmail.com/
       description: petalmail
     - title: teambition
-      logo: assets/images/logos/youtube.png
+      logo: assets/images/logos/dribbble.png
       url: https://www.teambition.com/organization/5ec4ed22497af5b7ac656d89/my
       description: teambition 
     - title: 微云
-      logo: assets/images/logos/youtube.png
+      logo: assets/images/logos/dribbble.png
       url: https://www.weiyun.com/disk
       description: 微云 
     - title: 有道云
-      logo: assets/images/logos/youtube.png
+      logo: assets/images/logos/dribbble.png
       url: https://note.youdao.com/
       description: 有道云 
     - title: pingcode
-      logo: assets/images/logos/youtube.png
+      logo: assets/images/logos/dribbble.png
       url: https://imcb20220112013838224.pingcode.com/
       description: pingcode
 
@@ -235,15 +235,15 @@
       description: 在线crontab
     - title: wifi二维码
       url: https://wificard.io/
-      logo: assets/images/logos/wappalyzer.png
+      logo: assets/images/logos/dribbble.png
       description: wifi二维码
     - title: 下载工具
       url: https://d.serctl.com/
-      logo: assets/images/logos/wappalyzer.png
+      logo: assets/images/logos/dribbble.png
       description: 下载工具
     - title: 域名注册
       url: https://namebeta.com/
-      logo: assets/images/logos/wappalyzer.png
+      logo: assets/images/logos/dribbble.png
       description: 域名注册
 
 - taxonomy: 素材资源
@@ -252,34 +252,34 @@
     - term: 图标素材
       links:
         - title: jquery插件库
-          logo: assets/images/logos/Iconfinder.png
+          logo: assets/images/logos/dribbble.png
           url: https://www.jq22.com/
           description: jquery插件库
         - title: Iconfinder
-          logo: assets/images/logos/Iconfinder.png
+          logo: assets/images/logos/dribbble.png
           url: https://www.iconfinder.com
           description: 2,100,000+ free and premium vector icons.
         - title: iconfont
-          logo: assets/images/logos/iconfont.png
+          logo: assets/images/logos/dribbble.png
           url: http://www.iconfont.cn/
           description: 阿里巴巴矢量图标库
       
     - term: LOGO设计
       links:
         - title: Iconsfeed
-          logo: assets/images/logos/iconsfeed.png
+          logo: assets/images/logos/dribbble.png
           url: http://www.iconsfeed.com/
           description: iOS icons gallery
         - title: iOS Icon Gallery
-          logo: assets/images/logos/iosicongallery.png
+          logo: assets/images/logos/dribbble.png
           url: http://iosicongallery.com/
           description: Showcasing beautiful icon designs from the iOS App Store
         - title: World Vector Logo
-          logo: assets/images/logos/worldvectorlogo.png
+          logo: assets/images/logos/dribbble.png
           url: https://worldvectorlogo.com/
           description: Brand logos free to download
         - title: Instant Logo Search
-          logo: assets/images/logos/InstantLogoSearch.png
+          logo: assets/images/logos/dribbble.png
           url: http://instantlogosearch.com/
           description: Search & download thousands of logos instantly
 
@@ -294,35 +294,35 @@
           description: free-api
         - title: 百度统计
           url: https://tongji.baidu.com/
-          logo: assets/images/logos/tinypng.png
+          logo: assets/images/logos/dribbble.png.png
           description: 百度统计
         - title: tinypng
           url: https://tinypng.com/
-          logo: assets/images/logos/tinypng.png
+          logo: assets/images/logos/dribbble.png.png
           description: Optimize your images with a perfect balance in quality and file size.
         - title: goqr
           url: http://goqr.me/
-          logo: assets/images/logos/goqr.png
+          logo: assets/images/logos/dribbble.png
           description: create QR codes for free (Logo, T-Shirt, vCard, EPS)
         - title: ezgif
           url: https://ezgif.com
-          logo: assets/images/logos/ezgif.png
+          logo: assets/images/logos/dribbble.png
           description: simple online GIF maker and toolset for basic animated GIF editing.
         - title: screen sizes
           url: http://screensiz.es/
-          logo: assets/images/logos/screensizes.png
+          logo: assets/images/logos/dribbble.png
           description: Viewport Sizes and Pixel Densities for Popular Devices
         - title: svgomg
           url: https://jakearchibald.github.io/svgomg/
-          logo: assets/images/logos/svgomg.png
+          logo: assets/images/logos/dribbble.png
           description: SVG在线压缩平台
         - title: 稿定抠图
           url: https://www.gaoding.com
-          logo: assets/images/logos/gaoding.png
+          logo: assets/images/logos/dribbble.png
           description: 免费在线抠图软件,图片快速换背景-抠白底图
         - title: 抠图
           url:  https://www.erase.bg/en/
-          logo: assets/images/logos/gaoding.png
+          logo: assets/images/logos/dribbble.png
           description: 免费在线抠图
 - taxonomy: 下载&视频
   icon: fa-diamond
@@ -331,5 +331,5 @@
       links: 
          - title: gatsby
            url: https://gatsby.video/
-           logo: assets/images/logos/tinypng.png
+           logo: assets/images/logos/dribbble.png.png
            description: gatsby
