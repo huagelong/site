@@ -57,6 +57,8 @@
 - taxonomy: 笔记&项目管理
   icon: fa-book
   links:
+    - title: confluence
+      url: https://huagelong.atlassian.net/wiki/home
     - title: coding
       url: https://coding.net/
     - title: petalmail
