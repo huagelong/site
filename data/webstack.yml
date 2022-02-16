@@ -3,8 +3,8 @@
 - taxonomy: 常用推荐
   icon: fa-star
   links:
-    - title: google自定义搜索 
-      url: https://cse.google.com/cse/setup/basic?cx=f0aae7cc7a0d2d25e
+    - title: pmcaff
+      url: https://www.pmcaff.com/
     - title: InfoQ
       url: https://www.infoq.cn/
     - title: 阮一峰的网络日志
@@ -54,7 +54,7 @@
       url: https://github.com/timqian/chinese-independent-blogs
     - title: cloudflare
       url: https://dash.cloudflare.com/
-- taxonomy: 笔记&项目管理
+- taxonomy: 笔记&效率工具
   icon: fa-book
   links:
     - title: confluence
@@ -71,6 +71,8 @@
       url: https://note.youdao.com/
     - title: pingcode
       url: https://imcb20220112013838224.pingcode.com/
+    - title: google自定义搜索 
+      url: https://cse.google.com/cse/setup/basic?cx=f0aae7cc7a0d2d25e
 
 - taxonomy: 手册
   icon: fa-book
