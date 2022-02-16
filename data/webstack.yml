@@ -111,6 +111,8 @@
 - taxonomy: 开发工具
   icon: fa-wrench
   links:
+    - title: 产品设计工具figma
+      url: https://www.figma.com/
     - title: favicon 制作
       url: https://quanxin.org/favicon
     - title: laravelplayground
