@@ -1,10 +1,12 @@
 ---
 
-- taxonomy: 常用推荐
+- taxonomy: 资讯
   icon: fa-star
   links:
     - title: pmcaff
       url: https://www.pmcaff.com/
+    - title: reddit
+      url: https://www.reddit.com/
     - title: InfoQ
       url: https://www.infoq.cn/
     - title: 阮一峰的网络日志
@@ -15,18 +17,12 @@
       url: https://hellogithub.com/
     - title: oschina
       url: https://www.oschina.net/
-    - title: github
-      url: https://www.github.com/
     - title: v2ex
       url: https://www.v2ex.com/
     - title: Producthunt
       url: https://www.producthunt.com/
-    - title: golang palyground
-      url: https://play.golang.org/
     - title: Youtube
       url: https://www.youtube.com/
-    - title: github.dev
-      url: https://github.dev/
     - title: learnku
       url: https://learnku.com/
     - title: w2solo
@@ -43,17 +39,11 @@
       url: http://babe.ys168.com/
     - title: opensourcelibs
       url: https://opensourcelibs.com/
-    - title: giters
-      url: https://giters.com/
     - title: 产品大师
       url: https://www.pmdaniu.com/explore
-    - title: 宝塔
-      url: http://bt.eduxplus.com:8889/tcloud
     - title: 中国独立博客
       logo:  assets/images/logos/dribbble.png 
       url: https://github.com/timqian/chinese-independent-blogs
-    - title: cloudflare
-      url: https://dash.cloudflare.com/
 - taxonomy: 笔记&效率工具
   icon: fa-book
   links:
@@ -113,6 +103,14 @@
 - taxonomy: 开发工具
   icon: fa-wrench
   links:
+    - title: 宝塔
+      url: http://bt.eduxplus.com:8889/tcloud
+    - title: cloudflare
+      url: https://dash.cloudflare.com/
+    - title: github.dev
+      url: https://github.dev/
+    - title: golang palyground
+      url: https://play.golang.org/
     - title: 产品设计工具figma
       url: https://www.figma.com/
     - title: favicon 制作
