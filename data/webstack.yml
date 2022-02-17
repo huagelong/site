@@ -76,8 +76,6 @@
       url: https://tool.lu/crontab/
     - title: wifi二维码
       url: https://wificard.io/
-    - title: 下载工具
-      url: https://d.serctl.com/
     - title: 域名注册
       url: https://namebeta.com/
 
@@ -164,33 +162,31 @@
 
 - taxonomy: 常用工具
   icon: fa-diamond
-  list: 
-    - term: 在线工具
-      links:
-        - title: free-api
-          url: https://www.free-api.com/
-        - title: 百度统计
-          url: https://tongji.baidu.com/
-        - title: tinypng
-          url: https://tinypng.com/
-        - title: goqr
-          url: http://goqr.me/
-        - title: ezgif
-          url: https://ezgif.com
-        - title: screen sizes
-          url: http://screensiz.es/
-        - title: svgomg
-          url: https://jakearchibald.github.io/svgomg/
-        - title: 稿定抠图
-          url: https://www.gaoding.com
-        - title: 抠图
-          url:  https://www.erase.bg/en/
+  links:
+    - title: free-api
+      url: https://www.free-api.com/
+    - title: 百度统计
+      url: https://tongji.baidu.com/
+    - title: tinypng
+      url: https://tinypng.com/
+    - title: goqr
+      url: http://goqr.me/
+    - title: ezgif
+      url: https://ezgif.com
+    - title: screen sizes
+      url: http://screensiz.es/
+    - title: svgomg
+      url: https://jakearchibald.github.io/svgomg/
+    - title: 稿定抠图
+      url: https://www.gaoding.com
+    - title: 抠图
+      url:  https://www.erase.bg/en/
 - taxonomy: 下载&视频
   icon: fa-diamond
-  list:
-    - term: 视频
-      links: 
-         - title: gatsby
-           url: https://gatsby.video/
-         - title: youtubedr
-           url: https://github.com/kkdai/youtube
+  links: 
+      - title: gatsby
+        url: https://gatsby.video/
+      - title: youtubedr
+        url: https://github.com/kkdai/youtube
+      - title: 下载工具
+        url: https://d.serctl.com/
