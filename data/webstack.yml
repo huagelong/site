@@ -33,10 +33,6 @@
       url: https://www.shengcaiyoushu.com/
     - title: 电鸭
       url: https://eleduck.com/
-    - title: mac软件下载
-      url: https://www.macappbox.com/
-    - title: 大好人资源铺
-      url: http://babe.ys168.com/
     - title: opensourcelibs
       url: https://opensourcelibs.com/
     - title: 产品大师
@@ -196,3 +192,5 @@
         url: https://github.com/kkdai/youtube
       - title: 下载工具
         url: https://d.serctl.com/
+      - title: mac软件下载
+        url: https://www.macappbox.com/
