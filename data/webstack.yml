@@ -44,6 +44,43 @@
     - title: 中国独立博客
       logo:  assets/images/logos/dribbble.png 
       url: https://github.com/timqian/chinese-independent-blogs
+    
+- taxonomy: 开发工具
+  icon: fa-wrench
+  links:
+    - title: 宝塔
+      url: http://bt.eduxplus.com:8889/tcloud
+    - title: cloudflare
+      url: https://dash.cloudflare.com/
+    - title: github.dev
+      url: https://github.dev/
+    - title: golang palyground
+      url: https://play.golang.org/
+    - title: 产品设计工具figma
+      url: https://www.figma.com/
+    - title: favicon 制作
+      url: https://quanxin.org/favicon
+    - title: laravelplayground
+      url: https://laravelplayground.com/#/?php=81
+    - title: jsonview
+      url: https://www.bejson.com/jsonviewernew/
+    - title: chinaz coderun
+      url: https://ntool.chinaz.com/coderun
+    - title: tools.fun
+      url: https://tools.fun/
+    - title: yamlchecker
+      url: https://yamlchecker.com/
+    - title: regex101
+      url: https://regex101.com/
+    - title: 在线crontab
+      url: https://tool.lu/crontab/
+    - title: wifi二维码
+      url: https://wificard.io/
+    - title: 下载工具
+      url: https://d.serctl.com/
+    - title: 域名注册
+      url: https://namebeta.com/
+
 - taxonomy: 笔记&效率工具
   icon: fa-book
   links:
@@ -99,42 +136,6 @@
       url: https://www.liaoxuefeng.com/
     - title: gf2手册
       url: https://goframe.org/display/gf 
-
-- taxonomy: 开发工具
-  icon: fa-wrench
-  links:
-    - title: 宝塔
-      url: http://bt.eduxplus.com:8889/tcloud
-    - title: cloudflare
-      url: https://dash.cloudflare.com/
-    - title: github.dev
-      url: https://github.dev/
-    - title: golang palyground
-      url: https://play.golang.org/
-    - title: 产品设计工具figma
-      url: https://www.figma.com/
-    - title: favicon 制作
-      url: https://quanxin.org/favicon
-    - title: laravelplayground
-      url: https://laravelplayground.com/#/?php=81
-    - title: jsonview
-      url: https://www.bejson.com/jsonviewernew/
-    - title: chinaz coderun
-      url: https://ntool.chinaz.com/coderun
-    - title: tools.fun
-      url: https://tools.fun/
-    - title: yamlchecker
-      url: https://yamlchecker.com/
-    - title: regex101
-      url: https://regex101.com/
-    - title: 在线crontab
-      url: https://tool.lu/crontab/
-    - title: wifi二维码
-      url: https://wificard.io/
-    - title: 下载工具
-      url: https://d.serctl.com/
-    - title: 域名注册
-      url: https://namebeta.com/
 
 - taxonomy: 素材资源
   icon: fa-thumbs-up
