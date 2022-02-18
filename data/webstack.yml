@@ -3,6 +3,8 @@
 - taxonomy: 资讯
   icon: fa-star
   links:
+    - title: segmentfault
+      url: https://segmentfault.com/
     - title: pmcaff
       url: https://www.pmcaff.com/
     - title: reddit
