@@ -44,6 +44,8 @@
 - taxonomy: 开发工具
   icon: fa-wrench
   links:
+    - title: gitlab
+      url: https://jihulab.com/
     - title: 宝塔
       url: http://bt.eduxplus.com:8889/tcloud
     - title: cloudflare
