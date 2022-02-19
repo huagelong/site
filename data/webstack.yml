@@ -102,6 +102,8 @@
 - taxonomy: 手册
   icon: fa-book
   links:
+    - title: hugo 文档
+      url: https://www.gohugo.org/doc/
     - title: symfony
       url: https://symfony.com/doc/current/index.html
     - title: hyperf
