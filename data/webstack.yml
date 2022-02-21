@@ -155,8 +155,10 @@
         - title: iconfont
           url: http://www.iconfont.cn/
       
-    - term: LOGO设计
+    - term: 设计
       links:
+        - title: app 截图
+          urL: https://theapplaunchpad.com/#
         - title: logoly
           url: https://www.logoly.pro/#/
         - title: Iconsfeed
