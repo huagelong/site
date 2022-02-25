@@ -78,6 +78,8 @@
       url: https://namebeta.com/
     - title: tableconvert
       url: https://tableconvert.com
+    - title: google trends
+      url: https://trends.google.com/
 
 - taxonomy: 笔记&效率工具
   icon: fa-book
