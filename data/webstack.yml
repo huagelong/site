@@ -84,6 +84,8 @@
 - taxonomy: 笔记&效率工具
   icon: fa-book
   links:
+    - title: 轻笔记
+      url: https://flomoapp.com/
     - title: todo
       url: https://to-do.live.com/
     - title: confluence
@@ -210,3 +212,5 @@
         url: https://www.macappbox.com/
       - title: tv
         url: https://eja.tv/
+      - title: 视频音频下载
+        url: https://github.com/KurtBestor/Hitomi-Downloader
