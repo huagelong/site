@@ -84,6 +84,8 @@
 - taxonomy: 笔记&效率工具
   icon: fa-book
   links:
+    - title: todo
+      url: https://to-do.live.com/
     - title: confluence
       url: https://huagelong.atlassian.net/wiki/home
     - title: coding
