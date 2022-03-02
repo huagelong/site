@@ -44,6 +44,8 @@
 - taxonomy: 开发工具
   icon: fa-wrench
   links:
+    - title: 类postman
+      url: https://hoppscotch.io/cn/
     - title: gitlab
       url: https://jihulab.com/
     - title: 宝塔
@@ -58,6 +60,8 @@
       url: https://www.figma.com/
     - title: favicon 制作
       url: https://quanxin.org/favicon
+    - title: pythonplayground
+      url: https://futurecoder.io/course/#ide
     - title: laravelplayground
       url: https://laravelplayground.com/#/?php=81
     - title: jsonview
@@ -85,6 +89,8 @@
   links: 
     - title: txt阅读
       url: https://tiansh.github.io/reader/#!
+    - title: app生成
+      url: https://github.com/nativefier/nativefier
 - taxonomy: 笔记&效率工具
   icon: fa-book
   links:
@@ -150,6 +156,8 @@
 - taxonomy: 在线学习
   icon: fa-diamond
   links: 
+      - title: 阿里云知行动手实验室
+        url: https://start.aliyun.com/
       - title: 对线面试官
         url: http://javainterview.gitee.io/luffy/
       - title: 网道
@@ -168,7 +176,8 @@
           url: http://www.iconfont.cn/
         - title: 插图
           url: https://undraw.co/illustrations
-      
+        - title: 必应壁纸
+          url: https://bing.ioliu.cn/
     - term: 设计
       links:
         - title: app 截图
