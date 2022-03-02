@@ -3,6 +3,8 @@
 - taxonomy: 资讯
   icon: fa-star
   links:
+    - title: dev.to
+      url: https://dev.to/
     - title: segmentfault
       url: https://segmentfault.com/
     - title: pmcaff
@@ -46,6 +48,8 @@
   links:
     - title: 类postman
       url: https://hoppscotch.io/cn/
+    - title: 隐私政策生成
+      url: https://toolbox.yolo.blue/#/privacy-policy
     - title: gitlab
       url: https://jihulab.com/
     - title: 宝塔
@@ -162,7 +166,12 @@
         url: http://javainterview.gitee.io/luffy/
       - title: 网道
         url: https://wangdoc.com/
-
+      - title: python 在线学习
+        url: https://python-world.github.io/python-mini-projects/#/
+      - title: 计算机自学指南
+        url: https://csdiy.wiki/
+      - title: 跟我一起写makefile
+        url: https://seisman.github.io/how-to-write-makefile/
 - taxonomy: 素材资源
   icon: fa-thumbs-up
   list: 
@@ -178,6 +187,8 @@
           url: https://undraw.co/illustrations
         - title: 必应壁纸
           url: https://bing.ioliu.cn/
+        - title: 精美插图
+          url: https://storyset.com/
     - term: 设计
       links:
         - title: app 截图
@@ -233,3 +244,5 @@
         url: https://eja.tv/
       - title: 视频音频下载
         url: https://github.com/KurtBestor/Hitomi-Downloader
+      - title: 人人影视资源
+        url: https://yyets.dmesg.app/search
