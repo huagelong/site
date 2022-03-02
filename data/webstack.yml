@@ -160,6 +160,8 @@
           url: https://www.iconfinder.com
         - title: iconfont
           url: http://www.iconfont.cn/
+        - title: 插图
+          url: https://undraw.co/illustrations
       
     - term: 设计
       links:
@@ -199,6 +201,8 @@
       url:  https://www.erase.bg/en/
     - title: dll查找下载
       url: https://cn.dll-files.com/
+    - title: 起名
+      url: http://xiaosang.net/gushi_namer/
 - taxonomy: 下载&视频
   icon: fa-diamond
   links: 
