@@ -80,7 +80,11 @@
       url: https://tableconvert.com
     - title: google trends
       url: https://trends.google.com/
-
+- taxonomy: 其他工具
+  icon: fa-book
+  links: 
+    - title: txt阅读
+      url: https://tiansh.github.io/reader/#!
 - taxonomy: 笔记&效率工具
   icon: fa-book
   links:
@@ -148,6 +152,8 @@
   links: 
       - title: 对线面试官
         url: http://javainterview.gitee.io/luffy/
+      - title: 网道
+        url: https://wangdoc.com/
 
 - taxonomy: 素材资源
   icon: fa-thumbs-up
