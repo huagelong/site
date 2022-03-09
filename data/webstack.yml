@@ -42,7 +42,8 @@
     - title: 中国独立博客
       logo:  assets/images/logos/dribbble.png 
       url: https://github.com/timqian/chinese-independent-blogs
-    
+    - title: 蟹壳
+      url: https://shellc.cn/
 - taxonomy: 开发工具
   icon: fa-wrench
   links:
