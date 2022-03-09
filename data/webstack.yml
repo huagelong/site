@@ -126,6 +126,8 @@
 - taxonomy: 手册
   icon: fa-book
   links:
+    - title: 速查手册
+      url: https://cheatsheet.wang/
     - title: hugo 文档
       url: https://www.gohugo.org/doc/
     - title: symfony
