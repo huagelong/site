@@ -127,6 +127,8 @@
 - taxonomy: 手册
   icon: fa-book
   links:
+    - title: tailwindcss
+      url: https://tailwindcss.com/docs/installation
     - title: 速查手册
       url: https://cheatsheet.wang/
     - title: hugo 文档
