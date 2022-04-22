@@ -169,6 +169,8 @@
       url: https://www.liaoxuefeng.com/
     - title: gf2手册
       url: https://goframe.org/display/gf 
+    - title: redis 手册
+      url: https://www.redis.net.cn/
 
 - taxonomy: 在线学习
   icon: fa-diamond
