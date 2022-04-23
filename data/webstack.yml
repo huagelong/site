@@ -3,6 +3,8 @@
 - taxonomy: 资讯
   icon: fa-star
   links:
+    - title: bilibili
+      url: https://www.bilibili.com/
     - title: dev.to
       url: https://dev.to/
     - title: segmentfault
