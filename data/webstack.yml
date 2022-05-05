@@ -137,6 +137,8 @@
 - taxonomy: 手册
   icon: fa-book
   links:
+    - title: linux命令搜索
+      url: https://linux.utils.fun/
     - title: tailwindcss
       url: https://tailwindcss.com/docs/installation
     - title: 速查手册
