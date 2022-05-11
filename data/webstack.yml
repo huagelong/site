@@ -3,6 +3,8 @@
 - taxonomy: 资讯
   icon: fa-star
   links:
+    - title: https://greasyfork.org/zh-CN
+      url: 浏览器脚本安装
     - title: 抖音
       url: https://www.douyin.com/
     - title: 什么值得买
