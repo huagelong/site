@@ -145,6 +145,8 @@
 - taxonomy: 手册
   icon: fa-book
   links:
+    - title: devdocs
+      url: https://devdocs.io/
     - title: linux命令搜索
       url: https://linux.utils.fun/
     - title: tailwindcss
