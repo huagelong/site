@@ -242,6 +242,8 @@
 - taxonomy: 常用工具
   icon: fa-diamond
   links:
+    - title: sql在线执行
+      url: https://www.db-fiddle.com/
     - title: free-api
       url: https://www.free-api.com/
     - title: 百度统计
