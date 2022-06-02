@@ -121,6 +121,8 @@
 - taxonomy: 笔记&效率工具
   icon: fa-book
   links:
+    - title: onenote
+      url: https://www.onenote.com
     - title: 百度脑图
       url: https://naotu.baidu.com/
     - title: 轻笔记
