@@ -3,6 +3,8 @@
 - taxonomy: 资讯
   icon: fa-star
   links:
+    - title: 腾讯云云社区
+      url: https://cloud.tencent.com/developer
     - title: dev.to
       url: https://dev.to/
     - title: segmentfault
@@ -44,6 +46,8 @@
       url: https://github.com/timqian/chinese-independent-blogs
     - title: fm广播
       url: https://sao.fm/
+    - title: 西游记
+      url: http://xiyouji.org/
 - taxonomy: 开发工具
   icon: fa-wrench
   links:
