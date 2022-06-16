@@ -3,6 +3,8 @@
 - taxonomy: 资讯
   icon: fa-star
   links:
+    - title: 阿里云开发者社区
+      url: https://developer.aliyun.com/
     - title: 腾讯云云社区
       url: https://cloud.tencent.com/developer
     - title: 今日头条
