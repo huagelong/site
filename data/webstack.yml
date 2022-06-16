@@ -5,6 +5,18 @@
   links:
     - title: 腾讯云云社区
       url: https://cloud.tencent.com/developer
+    - title: 今日头条
+      url: https://www.toutiao.com/
+    - title: 微信读书
+      url: https://weread.qq.com/
+    - title: https://greasyfork.org/zh-CN
+      url: 浏览器脚本安装
+    - title: 抖音
+      url: https://www.douyin.com/
+    - title: 什么值得买
+      url: https://www.smzdm.com/
+    - title: bilibili
+      url: https://www.bilibili.com/
     - title: dev.to
       url: https://dev.to/
     - title: segmentfault
@@ -46,11 +58,18 @@
       url: https://github.com/timqian/chinese-independent-blogs
     - title: fm广播
       url: https://sao.fm/
+<<<<<<< HEAD
     - title: 西游记
       url: http://xiyouji.org/
+=======
+    - title: bilibili电影
+      url: https://space.bilibili.com/15773384
+>>>>>>> a66b0b42db03ecc0d475270db525bbedbdc3b956
 - taxonomy: 开发工具
   icon: fa-wrench
   links:
+    - title: jsonvisio
+      url: https://jsonvisio.com/editor
     - title: 类postman
       url: https://hoppscotch.io/cn/
     - title: 隐私政策生成
@@ -109,6 +128,8 @@
 - taxonomy: 笔记&效率工具
   icon: fa-book
   links:
+    - title: onenote
+      url: https://www.onenote.com
     - title: 百度脑图
       url: https://naotu.baidu.com/
     - title: 轻笔记
@@ -135,6 +156,10 @@
 - taxonomy: 手册
   icon: fa-book
   links:
+    - title: devdocs
+      url: https://devdocs.io/
+    - title: linux命令搜索
+      url: https://linux.utils.fun/
     - title: tailwindcss
       url: https://tailwindcss.com/docs/installation
     - title: 速查手册
@@ -173,6 +198,8 @@
       url: https://www.liaoxuefeng.com/
     - title: gf2手册
       url: https://goframe.org/display/gf 
+    - title: redis 手册
+      url: https://www.redis.net.cn/
 
 - taxonomy: 在线学习
   icon: fa-diamond
@@ -226,6 +253,8 @@
 - taxonomy: 常用工具
   icon: fa-diamond
   links:
+    - title: sql在线执行
+      url: https://www.db-fiddle.com/
     - title: free-api
       url: https://www.free-api.com/
     - title: 百度统计
