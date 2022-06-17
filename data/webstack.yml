@@ -60,13 +60,10 @@
       url: https://github.com/timqian/chinese-independent-blogs
     - title: fm广播
       url: https://sao.fm/
-<<<<<<< HEAD
     - title: 西游记
       url: http://xiyouji.org/
-=======
     - title: bilibili电影
       url: https://space.bilibili.com/15773384
->>>>>>> a66b0b42db03ecc0d475270db525bbedbdc3b956
 - taxonomy: 开发工具
   icon: fa-wrench
   links:
