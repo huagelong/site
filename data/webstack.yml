@@ -67,6 +67,8 @@
 - taxonomy: 开发工具
   icon: fa-wrench
   links:
+    - title: 镜像
+      url: https://mirrorz.org/
     - title: jsonvisio
       url: https://jsonvisio.com/editor
     - title: 类postman
