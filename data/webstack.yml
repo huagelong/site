@@ -67,6 +67,8 @@
 - taxonomy: 开发工具
   icon: fa-wrench
   links:
+    - title: 程序员工具箱
+      url: https://cloud.codegen.cc/
     - title: 镜像
       url: https://mirrorz.org/
     - title: jsonvisio
