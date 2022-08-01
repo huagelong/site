@@ -67,6 +67,10 @@
 - taxonomy: 开发工具
   icon: fa-wrench
   links:
+    - title: google 开发
+      url: https://shell.cloud.google.com/
+    - title: gitpod
+      url: https://www.gitpod.io/
     - title: 程序员工具箱
       url: https://cloud.codegen.cc/
     - title: 镜像
