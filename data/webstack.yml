@@ -67,6 +67,8 @@
 - taxonomy: 开发工具
   icon: fa-wrench
   links:
+    - title: json格式化
+      url: https://www.jsont.run/
     - title: google 开发
       url: https://shell.cloud.google.com/
     - title: gitpod
