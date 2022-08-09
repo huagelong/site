@@ -141,6 +141,8 @@
 - taxonomy: 笔记&效率工具
   icon: fa-book
   links:
+    - title: 幕布
+      url: https://mubu.com/
     - title: onenote
       url: https://www.onenote.com
     - title: 百度脑图
