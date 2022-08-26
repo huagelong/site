@@ -3,6 +3,8 @@
 - taxonomy: 资讯
   icon: fa-star
   links:
+    - title: golang 导航
+      url: https://hao.studygolang.com/
     - title:  GitHub repo folks 
       url: https://techgaun.github.io/active-forks/
     - title: ossinsight
