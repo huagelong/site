@@ -138,6 +138,8 @@
 - taxonomy: 其他工具
   icon: fa-book
   links: 
+    - title: 模板市场
+      url: https://themeforest.net/
     - title: txt阅读
       url: https://tiansh.github.io/reader/#!
     - title: app生成
