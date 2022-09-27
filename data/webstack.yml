@@ -149,6 +149,8 @@
 - taxonomy: 笔记&效率工具
   icon: fa-book
   links:
+    - title: notion
+      url: https://www.notion.so/
     - title: 幕布
       url: https://mubu.com/
     - title: onenote
