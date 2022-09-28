@@ -73,6 +73,8 @@
 - taxonomy: 开发工具
   icon: fa-wrench
   links:
+    - title: jsoncrack
+      url: https://jsoncrack.com/editor
     - title: apifox
       url: https://www.apifox.cn/
     - title: codegen
