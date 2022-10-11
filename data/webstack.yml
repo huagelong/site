@@ -3,6 +3,8 @@
 - taxonomy: 综合
   icon: fa-star
   links:
+    - title: 另一个导航
+      url: https://hao.bioitee.com/
     - title: golang 导航
       url: https://hao.studygolang.com/
     - title: 好工具周刊
