@@ -1,6 +1,6 @@
 ---
 
-- taxonomy: 资讯
+- taxonomy: 综合
   icon: fa-star
   links:
     - title: golang 导航
@@ -233,6 +233,8 @@
 - taxonomy: 在线学习
   icon: fa-diamond
   links: 
+      - title: 书栈网
+        url: https://www.bookstack.cn/
       - title: 阿里云知行动手实验室
         url: https://start.aliyun.com/
       - title: 对线面试官
