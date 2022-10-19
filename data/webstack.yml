@@ -3,6 +3,9 @@
 - taxonomy: 综合
   icon: fa-star
   links:
+    - title: 前端周刊
+      url: https://github.com/tnfe/TNT-Weekly
+      
     - title: linux发行版
       url: https://distrowatch.com/
     - title: 另一个导航
