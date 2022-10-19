@@ -3,6 +3,8 @@
 - taxonomy: 综合
   icon: fa-star
   links:
+    - title: linux发行版
+      url: https://distrowatch.com/
     - title: 另一个导航
       url: https://hao.bioitee.com/
     - title: golang 导航
