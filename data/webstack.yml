@@ -3,6 +3,8 @@
 - taxonomy: 综合
   icon: fa-star
   links:
+    - title: golangexample
+      url: https://golangexample.com/
     - title: 代码搜索
       url: https://sourcegraph.com/ 
     - title: 前端周刊
