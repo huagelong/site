@@ -3,6 +3,8 @@
 - taxonomy: 综合
   icon: fa-star
   links:
+    - title: 掘金优秀开源项目
+      url: https://juejin.cn/pin/club/6824710203196309518
     - title: 热门排行
       url: https://www.buzzing.cc/
     - title: golangexample
