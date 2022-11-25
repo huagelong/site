@@ -3,6 +3,8 @@
 - taxonomy: 综合
   icon: fa-star
   links:
+    - title: 热门排行
+      url: https://www.buzzing.cc/
     - title: golangexample
       url: https://golangexample.com/
     - title: 代码搜索
