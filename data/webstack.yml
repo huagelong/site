@@ -201,6 +201,8 @@
 - taxonomy: 手册
   icon: fa-book
   links:
+    - title: umijs
+      url: https://umijs.org/docs/introduce/introduce
     - title: devdocs
       url: https://devdocs.io/
     - title: linux命令搜索
