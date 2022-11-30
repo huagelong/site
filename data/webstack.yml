@@ -201,7 +201,7 @@
 - taxonomy: 手册
   icon: fa-book
   links:
-    - title: 铜钟
+    - title: 铜钟 
       url: https://tonzhon.com/
     - title: umijs
       url: https://umijs.org/docs/introduce/introduce
